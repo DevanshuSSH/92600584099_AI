@@ -1,5 +1,6 @@
 # TwO Player Game - Tic-Tac-Toe 
-# # Using Heuristic Function
+#7. Implement Two Player Game - Tic-Tac-Toe (Using Heuristic Function).
+# enrollment no = 92600584099
 
 # Display the board
 def display (board) :
