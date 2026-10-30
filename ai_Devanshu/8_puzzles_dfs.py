@@ -1,3 +1,6 @@
+#3. Implement Depth First Search (for 8 puzzle problem).
+# enrollment no = 92600584099
+
 def get_neighbours (state):
     neighbours=[]
     zero_index=state.index(0)
