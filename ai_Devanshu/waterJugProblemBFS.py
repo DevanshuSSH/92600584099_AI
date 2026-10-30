@@ -1,4 +1,4 @@
-#4. Implement Depth First Search (for Water Jug problem).
+#2.Implement Breadth First Search (for Water Jug problem).
 # enrollment no = 92600584099
 
 #capacity of two jug
