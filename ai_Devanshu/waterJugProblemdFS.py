@@ -1,3 +1,6 @@
+#4. Implement Depth First Search (for Water Jug problem).
+# enrollment no = 92600584099
+
 #goal state
 goal = (1, 2, 3,
         4, 5, 6,
