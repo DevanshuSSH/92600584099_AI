@@ -1,3 +1,6 @@
+#11. Develop an Expert system for medical diagnosis.
+# enrollment no = 92600584099
+
 print('--------------Expert System------------------')
 
 print('Answer the following question in yes or no.')
