@@ -1,6 +1,8 @@
 # No two queens can be in the same row.
 # No two queens can be in the same column.
 # No two queens can be on the same diagonal.
+#8. Write a program to solve N-Queens problem.
+# enrollment no = 92600584099
 
 def solve_n_queens(n):
     board = [-1] * n
